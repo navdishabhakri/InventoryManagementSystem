@@ -9,10 +9,9 @@
 // To check memory leaks: valgrind --leak-check=yes ./a1
 
 ///////////////////////////////////////////////////////////////////////////
-// File Name: a1main.cpp
-// Group Number: 14
-// Group Members Names : iqreet kaur, navdisha bhakri
-// Group Members Seneca Email : ikaur80@myseneca.ca, nbhakri@myseneca.ca
+// File Name: inventory.h
+// Name: navdisha bhakri
+// Seneca Email : nbhakri@myseneca.ca
 // Date : 31 march 2024
 // Authenticity Declaration :
 // I declare this submission is the result of our group work and has not been
